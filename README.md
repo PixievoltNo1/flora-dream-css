@@ -40,19 +40,15 @@ These are only some of the many html elements that are available to use, but the
 * [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 * [em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
 * [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
-
-### Misc
 * [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 * [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 * [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
-* [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
 ### Figures/Images
 * [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 * [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
 * [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
 * [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-* [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 * [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
 
 ### Lists
