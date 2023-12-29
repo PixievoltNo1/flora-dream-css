@@ -18,8 +18,10 @@
 
 ## Full list of HTML elements inside
 
+These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more.
+
 layout
-* html
+* [html]
 * body
 * header
 * footer
@@ -77,7 +79,7 @@ form stuff
 * textarea
 radio, dropdown
 
-
+Huge bravos go out to the Mastodon community for their suggestions on what elements we should include!
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
