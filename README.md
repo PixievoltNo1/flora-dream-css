@@ -20,7 +20,8 @@
 
 These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more.
 
-layout
+### layout 
+
 * [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
 * [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
 * [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
@@ -31,9 +32,8 @@ layout
 * [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
 * [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
 * [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-* [article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 
-text
+### Text/Content
 * [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 * [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 * [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
@@ -42,20 +42,20 @@ text
 * [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
 * [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
 
-misc 
+### 
 * [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 * [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 * [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 * [dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
-figure
+### Figures/Images
 * [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 * [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
 * [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 * [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 * [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
 
-lists
+### Lists
 * [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 * [ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 * [li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
@@ -63,14 +63,14 @@ lists
 * [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
 * [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
 
-tables
+### Tables
 * [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
 * [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
 * [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
 * [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
 * [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
 
-form stuff
+### Forms
 * [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 * [label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 * [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
