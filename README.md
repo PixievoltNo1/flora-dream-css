@@ -20,7 +20,7 @@
 
 These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more.
 
-### layout 
+### Layout 
 
 * [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
 * [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
@@ -39,10 +39,9 @@ These are only some of the many html elements that are available to use, but the
 * [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
 * [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 * [em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
-* [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
 * [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
 
-### 
+### Misc
 * [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
 * [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 * [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
@@ -51,6 +50,7 @@ These are only some of the many html elements that are available to use, but the
 ### Figures/Images
 * [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 * [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
+* [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
 * [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 * [picture](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 * [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
