@@ -26,7 +26,6 @@ layout
 * [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
 * [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
 * [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-* [menu](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu)
 * [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
 * [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 * [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
