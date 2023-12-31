@@ -139,29 +139,66 @@
           </li>
           <li>You can even mix list types when nesting</li>
         </ul>
-        
+
         <hr />
-        
-        <h4>
-          A couple of fun elements:
-        </h4>
-        
+
+        <h4>A couple of fun elements:</h4>
+
         <p>
-          The following list type is <code>dl</code> or Description List element. It is used to enclose group of terms, like word definitions, character descriptions, etc.
+          The following list type is <code>dl</code> or Description List
+          element. It is used to enclose group of terms, like word definitions,
+          character descriptions, etc.
         </p>
-        
-        <p>
-          Definition List:
-        </p>
-        
+
+        <p>Definition List:</p>
+
         <dl>
-          <dt>This is a <code>d</code></dt>
+          <dt>This is a <code>dt</code> or Description Title element</dt>
+          <dd>This is a <code>dd</code> or Description Details element</dd>
+
+          <dt>HTML</dt>
+          <dd>HyperText Markup Language</dd>
+
+          <dt>CSS</dt>
+          <dd>Cascading Style Sheets</dd>
         </dl>
-        
       </section>
 
       <section>
         <h3>Tables</h3>
+
+        <p>
+          Tables are two-dimensional (rows, columns) and used for presenting
+          information in tabular form. In the older days of the web, we used to
+          use tables for layouts, but that's very taboo and not accessible.
+        </p>
+
+        <p>
+          You start a table with a <code>table</code> element. You use
+          <code>thead</code> for defining the row(s) of the head of the table
+          columns. Each row is within a <code>tr</code> element and within a row
+          you define the cells of each column: the <code>th</code> element is
+          for Table Header cells and <code>td</code> element is for a regular
+          ol' cell.
+        </p>
+
+        <table>
+          <caption>This is a simple <code>caption</code> element captioning this very simple table.</caption>
+          <thead>
+            <tr>
+              <th>First head cell</th>
+              <th>Second head cell</th>
+            </tr>
+          </thead>
+          <tr>
+            <td>first row, first column</td>
+            <td>first row, second column</td>
+          </tr>
+          <tr>
+            <td>second row, first column</td>
+            <td>second row, second column</td>
+          </tr>
+        </table>
       </section>
 
       <section>
@@ -210,20 +247,7 @@
       This is an h3 element. Oh, and here's a table:
     </h3>
     
-    <table>
-      <tr>
-        <th>first column</th>
-        <th>second column</th>
-      </tr>
-      <tr>
-        <td>first row, first column</td>
-        <td>first row, second column</td>
-      </tr>
-      <tr>
-        <td>second row, first column</td>
-        <td>second row, second column</td>
-      </tr>
-    </table>
+    
     
     <figure>
       <img src="https://cdn.glitch.global/387a9684-ff3b-4dfc-93a0-2ec0fc89e7d8/jam-buddy.png" alt="an illustration of a strawberry with a face giving a thumbs up, holding a butter knife, and has one leg up on a computer" />
