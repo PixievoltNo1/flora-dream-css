@@ -45,13 +45,6 @@ These are only some of the many html elements that are available to use, but the
 * [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 * [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 
-### Figures/Images
-* [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-* [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
-* [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
-* [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-* [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
-
 ### Lists
 * [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 * [ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
@@ -66,6 +59,14 @@ These are only some of the many html elements that are available to use, but the
 * [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
 * [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
 * [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
+* [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
+
+### Figures/Images
+* [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+* [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
+* [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+* [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+* [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
 
 ### Forms
 * [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
