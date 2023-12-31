@@ -21,7 +21,9 @@
 
       <p>
         The following navigation menu uses the <code>ol</code> and
-        <code>li</code> elements nested within a <code>nav</code> element.
+        <code>li</code> elements nested within a <code>nav</code> element. If
+        it's a link, those are wrapped with an <code>a</code> (for "anchor")
+        tag.
       </p>
 
       <nav>
@@ -42,8 +44,18 @@
     </header>
 
     <main>
+      <!-- 1. Text/Content elements section -->
       <section>
         <h3>Text/Content</h3>
+
+        <p>
+          HTML has some elements that are used for easy CSS-free styling, like
+          <code>strong</code> elements often
+          <strong>have text that is bold in nature</strong> and
+          <code>em</code> elements are used to <em>emphasize text</em>. But
+          because they are HTML tags, you can style them to make the text do
+          almost whatever you want.
+        </p>
 
         <p>
           While there are text/content-related elements throughout this entire
@@ -55,19 +67,35 @@
           "Like this blockquote, for example." - Santa Claus
         </blockquote>
 
+        <aside>
+          This is an <code>aside</code>, and a good opportunity to call out that
+          Santa Claus probably did not say "Like this blockquote, for example."
+        </aside>
+
         <div>
           This text is inside a <code>div</code> element, and within it are
           <span>some</span> words <span>wrapped</span> in
           <code>span</code> elements. All element tag names in this page are
           wrapped in <code>code</code> tags.
         </div>
-
-        <aside>
-          This is an <code>aside</code>, and a good opportunity to call out that
-          Santa Claus probably did not say "Like this blockquote, for example."
-        </aside>
+        
+        <hr />
+        
+        <h4>
+          This is a <code>h4</code> level heading. 
+        </h4>
+        
+        <p>
+          And above that <code>h4</code> is a <code>hr</code>, or horizontal rule. <code>hr</code> tags can be really fun to style so you can use them as visual breaks in your HTML content. Another fun, but much more modern, HTML tag set is the below <code>details</code> and <code>summary</code>.
+        </p>
+        
+        <details>
+          <summary>Click this summary to toggle the <code>details</code> widget</summary>
+          It's pretty cool that you can make an interactive element like this with only HTML 
+        </details>
       </section>
 
+      <!-- 2. List elements section -->
       <section>
         <h3>Lists</h3>
       </section>

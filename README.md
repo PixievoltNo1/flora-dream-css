@@ -34,6 +34,7 @@ These are only some of the many html elements that are available to use, but the
 * [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
 
 ### Text/Content
+* [h1, h2, h3, h4](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 * [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 * [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 * [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
