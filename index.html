@@ -264,10 +264,61 @@
       <!-- 5. Form elements section -->
       <section>
         <h3>Forms</h3>
-        
+
         <p>
-          Oh boy, can forms on webpages be and get more complicated? This example only scratches the surface of what elements you can use in a form, but it's enough to help you figure out a good style. Remember to keep it accessible - 
+          Oh boy, can forms on webpages be and get more complicated? This
+          example only scratches the surface of what elements you can use in a
+          form, but it's enough to help you figure out a good style. Remember to
+          keep it readable and understandable!
         </p>
+
+        <form>
+          <p>
+            This <code>form</code> starts with a <code>label</code> for a
+            *required* <code>input</code> element whose "type" attribute is set
+            to "text." There's a few options for input types that
+            <a
+              href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types"
+              >you can learn about on MDN</a
+            >.
+          </p>
+          <label for="name">Your name (required):</label>
+          <input type="text" id="name" name="name" required />
+
+          <p>
+            The following is a <code>fieldset</code> that is a collection of
+            options (<code>input</code> elements whose "type" is set to
+            "radio"). Remember, every <code>input</code> needs a
+            <code>label</code>. And every <code>fieldset</code> more likely than
+            not needs a <code>legend</code> to describe the set.
+          </p>
+
+          <fieldset>
+            <legend>Choose your favorite fruit</legend>
+
+            <input
+              type="radio"
+              id="strawberry"
+              name="fruit"
+              value="strawberry"
+            />
+            <label for="kraken">strawberry</label><br />
+
+            <input type="radio" id="orange" name="fruit" value="orange" />
+            <label for="sasquatch">orange</label><br />
+
+            <input type="radio" id="banana" name="fruit" value="banana" />
+            <label for="mothman">banana</label>
+          </fieldset>
+
+          <p>
+            The following is a <code>textarea</code> followed by a submit
+            <code>button</code>.
+          </p>
+          <textarea></textarea>
+
+          <button>Submit</button>
+        </form>
       </section>
     </main>
 
