@@ -20,60 +20,65 @@
 
 These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more.
 
-### Layout 
+### Layout
 
-* [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
-* [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
-* [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-* [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-* [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-* [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
-* [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-* [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
-* [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-* [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+- [html](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+- [body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
+- [header](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
+- [footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+- [nav](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+- [main](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+- [section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+- [aside](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
+- [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+- [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
 
 ### Text/Content
-* [h1, h2, h3, h4](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-* [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-* [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-* [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
-* [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
-* [em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
-* [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
-* [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
-* [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-* [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+
+- [h1, h2, h3, h4](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- [a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- [p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+- [blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
+- [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
+- [em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
+- [code](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
+- [hr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
+- [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 
 ### Lists
-* [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
-* [ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
-* [li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
-* [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
-* [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
-* [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
+
+- [ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+- [ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+- [li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+- [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
+- [dt](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt)
+- [dd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd)
 
 ### Tables
-* [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-* [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
-* [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
-* [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
-* [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
-* [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
+
+- [table](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+- [thead](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
+- [th](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
+- [tr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
+- [td](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
+- [caption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
 
 ### Figures/Images
-* [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-* [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
-* [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
-* [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+
+- [figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+- [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
+- [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+- [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
 ### Forms
-* [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-* [label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-* [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
-* [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
-* [textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
-radio, dropdown
+
+- [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+- [label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+- [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+- [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
+- [textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+  radio, dropdown
 
 Huge bravos go out to the Mastodon community for their suggestions on what elements we should include!
 
