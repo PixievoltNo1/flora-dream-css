@@ -66,7 +66,6 @@ These are only some of the many html elements that are available to use, but the
 * [figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption)
 * [pre](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
 * [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-* [cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
 
 ### Forms
 * [form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)

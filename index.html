@@ -184,7 +184,11 @@
         </p>
 
         <table>
-          <caption>This is a simple <code>caption</code> element captioning this very simple table.</caption>
+          <caption>
+            This is a simple
+            <code>caption</code>
+            element captioning this very simple table.
+          </caption>
           <thead>
             <tr>
               <th>First head cell</th>
@@ -207,10 +211,46 @@
         <h3>Figures/Images</h3>
       </section>
       
+      <p>
+        Images are fun to share on a web page, but adding captions and alt text make it even more fun, informative, and accessible. The following image is added using an <code>img</code> tag with an "alt" attribute for alt text. Additionally, the <code>figcaption</code> element holds the caption next for the image, and both are wrapped in the <code>figure</code> tag.
+      </p>
+
       <figure>
-      <img src="https://cdn.glitch.global/387a9684-ff3b-4dfc-93a0-2ec0fc89e7d8/jam-buddy.png" alt="an illustration of a strawberry with a face giving a thumbs up, holding a butter knife, and has one leg up on a computer" />
-      <figcaption>this is a caption for the above image of the Glitch Community Code Jams mascot</figcaption>
-    </figure>
+        <img
+          src="https://cdn.glitch.global/387a9684-ff3b-4dfc-93a0-2ec0fc89e7d8/jam-buddy.png"
+          alt="an illustration of a strawberry with a face giving a thumbs up, holding a butter knife, and has one leg up on a computer"
+        />
+        <figcaption>
+          this is a caption for the above image of the Glitch Community Code
+          Jams mascot
+        </figcaption>
+      </figure>
+      
+      <hr />
+      
+      <h4>
+        Another fun element:
+      </h4>
+      
+      <p>
+        The following is another <code>figure</code> but the figure is actually some <a href="">ASCII art</a> within a <code>pre</code> tag, known as the Preformatted Text tag. It presents the text as is written, white spaces and all. It's important to add a caption to these to make them more accessible.
+      </p>
+      
+      <figure>
+        <pre>
+           _|w|_
+          /     \
+          |.  . |
+          \ o   /
+           \   /
+            /    \
+            `      `
+          
+        </pre>
+        <figcaption>
+          the above image is ASCII art of a strawberry displayed within a preformatted text element
+        </figcaption>
+      </figure>
 
       <!-- 5. Form elements section -->
       <section>
@@ -220,9 +260,14 @@
 
     <footer>
       <p>
-        Congrats, you made it to the <code>footer</code> of this page. Now, it's time for you to <a href="https://glitch.com/edit/#!/remix/your-dream-default-stylesheet">remix it on Glitch</a> and update <code>style.css</code> to create your dream default stylesheet!
+        Congrats, you made it to the <code>footer</code> of this page. Now, it's
+        time for you to
+        <a href="https://glitch.com/edit/#!/remix/your-dream-default-stylesheet"
+          >remix it on Glitch</a
+        >
+        and update <code>style.css</code> to create your dream default
+        stylesheet!
       </p>
     </footer>
-    
   </body>
 </html>
