@@ -1,20 +1,22 @@
 # Your Dream Default Stylesheet #codejam #dreamcss
 
-(jam prompt)
+(TODO jam prompt)
 
-## Guidelines
+Here are some docs to get you started:
+* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is an exhaustive index of all CSS properties
+* (TODO links to fun css resources from team)
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+## Files in this project
 
-← `index.html`: This is the main HTML page for your site.
+← `README.md`: That's this file, which includes links below to documentation for all of the HTML elements used.
 
-← `style.css`: CSS files add styling rules to your content.
+← `index.html`: This is where all the HTML and content is. Do not edit it if you're participating in the Code Jam, but look through it to see how the content of the page is structured.
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
+← `style.css`: For the code jam, edit this CSS file with all of the styling rules of your dream default style sheet.
 
 ## How to submit to the January 2023 [Glitch Community Code Jam](https://glitch.com/jams)
 
-(directions)
+When you're done, update this project's description to include the hashtags "#codejam" and "#dreamcss". You can learn more about this and past jams at [glitch.com/jams)(https://glitch.com/jams/)
 
 ## Full list of HTML elements inside
 
@@ -78,7 +80,6 @@ These are only some of the many html elements that are available to use, but the
 - [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 - [button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
 - [textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
-  radio, dropdown
 
 Huge bravos go out to the Mastodon community for their suggestions on what elements we should include!
 
