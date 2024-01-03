@@ -9,8 +9,8 @@ We asked the Glitch team and the community for some of their favorite CSS tools 
 - [grid.malven.co](https://grid.malven.co/) - a visual cheatsheet for CSS Grid layouts
 - [flexbox.malven.co](https://flexbox.malven.co/) - a visual cheatsheet for flexbox
 - [heropatterns.com](https://heropatterns.com/) - a collection of repeatable SVG background patterns
-- [gradient.style](https://gradient.style/) - an HD CSS gradient 
-- [bennettfeely.com/clippy](https://bennettfeely.com/clippy/)
+- [gradient.style](https://gradient.style/) - a CSS gradient builder
+- [bennettfeely.com/clippy](https://bennettfeely.com/clippy/) - a tool to create clip paths for geometric shapes
 - []()
 - []()
 
