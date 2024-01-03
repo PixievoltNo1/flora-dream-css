@@ -11,8 +11,12 @@ We asked the Glitch team and the community for some of their favorite CSS tools 
 - [heropatterns.com](https://heropatterns.com/) - a collection of repeatable SVG background patterns
 - [gradient.style](https://gradient.style/) - a CSS gradient builder
 - [bennettfeely.com/clippy](https://bennettfeely.com/clippy/) - a tool to create clip paths for geometric shapes
-- []()
-- []()
+- [type-scale.spencermortensen.com](https://type-scale.spencermortensen.com/) - a tool for generating scaled type values, even for responsive text
+- [shadows.brumm.af](https://shadows.brumm.af/) - a box shadow generator
+- [joshwcomeau.com/gradient-generator](https://www.joshwcomeau.com/gradient-generator/) - a gradient generator, also everything josh writes about rules
+- [utopia.fyi](https://utopia.fyi/) - they have a few useful calculators for css values
+- [oklch.com](https://oklch.com/) - an OKLCH color picker
+- [cubic-bezier.com](https://cubic-bezier.com/) - a cubic-bezier generator
 
 ## Files in this project
 
@@ -24,8 +28,7 @@ We asked the Glitch team and the community for some of their favorite CSS tools 
 
 ## Full list of HTML elements inside
 
-These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more. The [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is an exhaustive index of all CSS properties. 
-
+These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more. The [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is an exhaustive index of all CSS properties.
 
 ### Layout
 
