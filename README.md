@@ -1,10 +1,18 @@
 # Your Dream Default Stylesheet #codejam #dreamcss
 
-(TODO jam prompt)
+Times New Roman, blue links…we’re all familiar with the default CSS of web pages. This jam, though, we’re imagining what the default style would be if _you_ had control. Remix this project and **only update style.css** - no editing index.html, no adding files, and definitely no JavaScript. Use your imagination with CSS, and make sure to keep it accessible!
 
-Here are some docs to get you started:
-* [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is an exhaustive index of all CSS properties
-* (TODO links to fun css resources from team)
+Submit your remix any time through the month of January by updating the project description to include “#codejam #dreamcss". You can learn more about this and past jams at [glitch.com/jams)(https://glitch.com/jams/)
+
+We asked the Glitch team and the community for some of their favorite CSS tools and resources, maybe they'll help inspire you!
+
+- [grid.malven.co](https://grid.malven.co/) - a visual cheatsheet for CSS Grid layouts
+- [flexbox.malven.co](https://flexbox.malven.co/) - a visual cheatsheet for flexbox
+- [heropatterns.com](https://heropatterns.com/) - a collection of repeatable SVG background patterns
+- [gradient.style](https://gradient.style/) - an HD CSS gradient 
+- [bennettfeely.com/clippy](https://bennettfeely.com/clippy/)
+- []()
+- []()
 
 ## Files in this project
 
@@ -14,13 +22,10 @@ Here are some docs to get you started:
 
 ← `style.css`: For the code jam, edit this CSS file with all of the styling rules of your dream default style sheet.
 
-## How to submit to the January 2023 [Glitch Community Code Jam](https://glitch.com/jams)
-
-When you're done, update this project's description to include the hashtags "#codejam" and "#dreamcss". You can learn more about this and past jams at [glitch.com/jams)(https://glitch.com/jams/)
-
 ## Full list of HTML elements inside
 
-These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more.
+These are only some of the many html elements that are available to use, but they're what we included in this starter. Click the link to see the MDN doc about that element and learn more. The [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is an exhaustive index of all CSS properties. 
+
 
 ### Layout
 
