@@ -2,7 +2,7 @@
 
 Times New Roman, blue links…we’re all familiar with the default CSS of web pages. This jam, though, we’re imagining what the default style would be if _you_ had control. Remix this project and **only update style.css** - no editing index.html, no adding files, and definitely no JavaScript. Use your imagination with CSS, and make sure to keep it accessible!
 
-Submit your remix any time through the month of January by updating the project description to include “#codejam #dreamcss". You can learn more about this and past jams at [glitch.com/jams)(https://glitch.com/jams/)
+Submit your remix any time through the month of January by updating the project description to include “#codejam #dreamcss". You can learn more about this and past jams at [glitch.com/jams](https://glitch.com/jams/)
 
 We asked the Glitch team and the community for some of their favorite CSS tools and resources, maybe they'll help inspire you!
 
