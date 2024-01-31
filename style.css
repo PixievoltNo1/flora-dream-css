@@ -9,16 +9,28 @@
   HAPPY JAMMING! 🍓🎏
 */
 
-@import "https://fonts.googleapis.com/css2?family=Nunito:wght@300;700;900";
+@import "https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;700;900";
 @import "https://fonts.googleapis.com/css2?family=Sono";
 html {
   background-color: hsl(281, 100%, 87%);
   font-family: "Nunito", sans-serif;
   line-height: 1.4;
 }
-code, pre {
-  font-family: "Sono", monospace;
-}
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
+}
+code, pre {
+  font-family: "Sono", monospace;
+  background-color: hsla(0, 0%, 100%, 0.7);
+  box-shadow: 0 0 3px hsla(0, 0%, 0%, 0.4);
+  padding: 0 0.2em;
+}
+/* don't double-style if someone quite reasonably does e.g. <pre><code> */
+:is(code, pre) :where(code, pre) {
+  background-color: transparent;
+  box-shadow: none;
+  padding: 0;
+}
+aside {
+  font-weight: 200;
 }
