@@ -20,7 +20,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
 a:link {
-  color: hsl(208 100% 42%);
+  color: hsl(216, 86.5%, 38%);
+}
+a:visited {
+  color: hsl(302, 57%, 34%)
 }
 code, pre {
   font-family: "Sono", monospace;
