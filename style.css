@@ -19,6 +19,9 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
+a:link {
+  color: hsl(208 100% 42%);
+}
 code, pre {
   font-family: "Sono", monospace;
   background-color: hsla(0, 0%, 100%, 0.7);
