@@ -28,11 +28,11 @@ a:visited {
 ul > li {
   list-style-type: disc;
 }
-ul > li::counter {
+ul > li::marker {
   color: black;
   --petal-color: white;
   text-shadow:
-    calc(0.5em * sin(0))
+    calc(0.5em * sin(0)) calc(0.5em * cos(0)) white;
 }
 code, pre {
   font-family: "Sono", monospace;
