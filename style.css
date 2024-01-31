@@ -25,6 +25,15 @@ a:link {
 a:visited {
   color: hsl(302, 57%, 34%);
 }
+ul > li {
+  list-style-type: disc;
+}
+ul > li::counter {
+  color: black;
+  --petal-color: white;
+  text-shadow:
+    calc(0.5em * sin(0))
+}
 code, pre {
   font-family: "Sono", monospace;
   background-color: hsla(0, 0%, 100%, 0.7);
