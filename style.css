@@ -23,18 +23,20 @@ a:link {
   color: hsl(216, 86.5%, 38%);
 }
 a:visited {
-  color: hsl(302, 57%, 34%)
+  color: hsl(302, 57%, 34%);
 }
 code, pre {
   font-family: "Sono", monospace;
   background-color: hsla(0, 0%, 100%, 0.7);
   box-shadow: 0 0 3px hsla(0, 0%, 0%, 0.4);
+  margin: 0 0.1em;
   padding: 0 0.2em;
 }
 /* don't double-style if someone quite reasonably does e.g. <pre><code> */
 :is(code, pre) :where(code, pre) {
   background-color: transparent;
   box-shadow: none;
+  margin: 0;
   padding: 0;
 }
 aside {
