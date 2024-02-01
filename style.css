@@ -93,7 +93,10 @@ td {
   background-color: white;
   padding: 0 0.3em;
 }
-textarea, input:not([type="button"], [type="submit"], [type="reset"], [type="image"], [type="checkbox"], [type="radio"], [type="range"], [type="color"], [type="file"], [type="hidden"]) {
-  border: 2px solid hsl(300 80% 35%);
-  border-radius: 4px;
+fieldset {
+  border: 2px solid hsl(300, 80%, 35%);
+}
+legend {
+  padding: 0 0.4em;
+  font-weight: bold;
 }
