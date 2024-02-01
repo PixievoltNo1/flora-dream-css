@@ -19,6 +19,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
+/* target contrast ratio: 5.5 (WCAG AA + 1) */
 a:link {
   color: hsl(216, 86.5%, 38%);
 }
@@ -81,12 +82,14 @@ table {
   background-color: hsl(35.19, 65%, 36%);
 }
 caption {
+  background-color: hsl(36, 84%, 77%);
   margin: 6px;
   padding: 0.4em;
   font-weight: 200;
 }
 th {
-  background-color: white;
+  background-color: hsl(330, 100%, 50%);
+  color: white;
   padding: 0.3em;
 }
 td {
