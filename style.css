@@ -25,15 +25,6 @@ a:link {
 a:visited {
   color: hsl(302, 57%, 34%);
 }
-ul > li {
-  list-style-type: disc;
-}
-ul > li::marker {
-  color: black;
-  --petal-color: white;
-  text-shadow:
-    calc(0.5em * sin(0)) calc(0.5em * cos(0)) white;
-}
 code, pre {
   font-family: "Sono", monospace;
   background-color: hsla(0, 0%, 100%, 0.7);
@@ -47,6 +38,23 @@ code, pre {
   box-shadow: none;
   margin: 0;
   padding: 0;
+}
+blockquote {
+  background-color: hsl(109 96% 82%);
+  border: 1px dashed hsl(107 57% 35%);
+  padding: 0.5em;
+  overflow: hidden;
+}
+blockquote::before {
+  content: "”";
+  font-size: 10em;
+  font-weight: 900;
+  float: left;
+  opacity: 0.2;
+  margin-top: -0.4em;
+  margin-left: -0.1em;
+  margin-right: 0.05em;
+  margin-bottom: -0.75em;
 }
 aside {
   font-weight: 200;
