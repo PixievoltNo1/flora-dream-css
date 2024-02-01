@@ -74,6 +74,25 @@ ol > li::marker {
 dt {
   font-weight: bold;
 }
+table, caption, th, td {
+  border: 1px solid hsl(37.6, 100%, 21%);
+}
+table {
+  background-color: hsl(35.19, 65%, 36%);
+}
+caption {
+  margin: 6px;
+  padding: 0.4em;
+  font-weight: 200;
+}
+th {
+  background-color: white;
+  padding: 0.3em;
+}
+td {
+  background-color: white;
+  padding: 0 0.3em;
+}
 textarea, input:not([type="button"], [type="submit"], [type="reset"], [type="image"], [type="checkbox"], [type="radio"], [type="range"], [type="color"], [type="file"], [type="hidden"]) {
   border: 2px solid hsl(300 80% 35%);
   border-radius: 4px;
