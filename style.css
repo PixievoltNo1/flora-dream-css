@@ -16,6 +16,9 @@ html {
   font-family: "Nunito", sans-serif;
   line-height: 1.4;
 }
+* {
+  box-sizing: border-box;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
@@ -57,9 +60,14 @@ ul ul ul > li {
   list-style-type: revert;
 }
 
+blockquote, aside, figure {
+  width: 80%;
+  margin: 1em auto;
+}
+
 blockquote {
-  background-color: hsl(109 96% 82%);
-  border: 1px dashed hsl(96 71% 35%);
+  background-color: hsl(109, 96%, 82%);
+  border: 1px dashed hsl(96, 71%, 35%);
   padding: 0.4em;
   overflow: hidden;
 }
@@ -77,6 +85,9 @@ blockquote::before {
 
 aside {
   font-weight: 200;
+  background-color: hsl(60, 96%, 89%);
+  padding: 0.3em;
+  border-left: 4px solid hsl(35, 65%, 36%);
 }
 
 ol > li::marker {
@@ -90,7 +101,7 @@ table, caption, th, td {
   border: 1px solid hsl(37.6, 100%, 21%);
 }
 table {
-  background-color: hsl(35.19, 65%, 36%);
+  background-color: hsl(35, 65%, 36%);
   margin: auto;
 }
 caption {
