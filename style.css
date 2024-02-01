@@ -16,9 +16,11 @@ html {
   font-family: "Nunito", sans-serif;
   line-height: 1.4;
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
+
 /* target contrast ratio: 5.5 (WCAG AA + 1) */
 a:link {
   color: hsl(216, 86.5%, 38%);
@@ -26,6 +28,7 @@ a:link {
 a:visited {
   color: hsl(302, 57%, 34%);
 }
+
 code, pre {
   font-family: "Sono", monospace;
   background-color: hsla(0, 0%, 100%, 0.7);
@@ -40,6 +43,7 @@ code, pre {
   margin: 0;
   padding: 0;
 }
+
 ul > li {
   list-style-type: "🌻 ";
 }
@@ -49,6 +53,7 @@ ul ul > li {
 ul ul ul > li {
   list-style-type: revert;
 }
+
 blockquote {
   background-color: hsl(109 96% 82%);
   border: 1px dashed hsl(96 71% 35%);
@@ -66,15 +71,18 @@ blockquote::before {
   margin-right: 0.05em;
   margin-bottom: -0.75em;
 }
+
 aside {
   font-weight: 200;
 }
+
 ol > li::marker {
   font-weight: bold;
 }
 dt {
   font-weight: bold;
 }
+
 table, caption, th, td {
   border: 1px solid hsl(37.6, 100%, 21%);
 }
@@ -88,14 +96,18 @@ caption {
   font-weight: 200;
 }
 th {
-  background-color: hsl(330, 100%, 50%);
-  color: white;
+  background-color: hsl(331, 99%, 83%);
   padding: 0.3em;
 }
 td {
-  background-color: white;
+  background-color: hsl(333, 93%, 89%);
   padding: 0 0.3em;
 }
+
+figure {
+  
+}
+
 fieldset {
   border: 2px solid hsl(300, 80%, 35%);
 }
