@@ -39,6 +39,15 @@ code, pre {
   margin: 0;
   padding: 0;
 }
+ul > li {
+  list-style-type: "🌻 ";
+}
+ul ul > li {
+  list-style-type: "🌼 ";
+}
+ul ul ul > li {
+  list-style-type: revert;
+}
 blockquote {
   background-color: hsl(109 96% 82%);
   border: 1px dashed hsl(96 71% 35%);
